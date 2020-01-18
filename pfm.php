@@ -1,5 +1,8 @@
 <?php
+// https://github.com/Samarine/PinxFileManager
+//Username
 $user='root';
+//Password
 $pass='toor';
 
 
